@@ -16,9 +16,13 @@ pipeline: spacy_sklearn
 
 Files for Rasa Core model
 •	data/stories.md file contains some training stories which represent the conversations between a user and the assistant.
+
 •	domain.yml file describes the domain of the assistant which includes intents, entities, slots, templates and actions the assistant should be aware of.
+
 •	actions.py file contains the code of a custom action which retrieves results of the latest IPL match by making an external API call.
+
 •	endpoints.yml file contains the webhook configuration for custom action.
+
 •	policies.yml file contains the configuration of the training policies for Rasa Core model.
 
 
