@@ -1,4 +1,6 @@
 NYC Taxi Trip Duration EDA
+
+
 NYC Taxi Trips details data is provided & we are asked to predict Trip duration . This will help them to manage their fleets better . In this notebook , we will perform EDA .
 
 Here is the description of all the variables / features available in the dataset .
