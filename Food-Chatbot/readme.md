@@ -19,7 +19,7 @@ Files for Rasa Core model
 
 •	domain.yml file describes the domain of the assistant which includes intents, entities, slots, templates and actions the assistant should be aware of.
 
-•	actions.py file contains the code of a custom action which retrieves results of the latest IPL match by making an external API call.
+•	actions.py file contains the code of a custom action which retrieves results by making an external API call.
 
 •	endpoints.yml file contains the webhook configuration for custom action.
 
